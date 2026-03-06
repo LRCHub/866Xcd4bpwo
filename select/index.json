@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LifeStash / 舐達麻 (prod.7SEEDS)",
+  "base_artist": "舐達麻",
+  "createdAt": "2026-03-06T02:20:54.581047Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIFE STASH",
+      "artist": "舐達麻",
+      "has_synced": false,
+      "path": "select/pl_01_LIFE_STASH_舐達麻.txt"
+    }
+  ]
+}
